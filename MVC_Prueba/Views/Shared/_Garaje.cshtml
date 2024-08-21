@@ -1,0 +1,22 @@
+﻿@using MVC_Prueba.Models;
+@model Garaje
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>MARCA</th>
+        <th>MODELO</th>
+        <th>PROPIETARIO</th>
+        <th></th>
+    </tr>
+    @foreach (Coche coche in Model)
+    {
+        <tr>
+            <td>@coche.IdCoche</td>
+            <td>@coche.Marca</td>
+            <td>@coche.Modelo</td>
+            <td>@coche.Propietario</td>
+        </tr>
+    }
+
+</table>

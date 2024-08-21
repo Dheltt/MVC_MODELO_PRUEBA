@@ -1,0 +1,27 @@
+﻿body {
+}
+
+
+.alineacion{
+    display:flex;
+    justify-content:flex-start;
+    text-align:center;
+    font-style:oblique;
+    margin-bottom:10px;
+}
+.label{
+    display:flex;
+    justify-content:flex-start;
+    border:1px solid red;
+    width:55px;
+    margin-right:0;
+}
+
+.input{
+    border-radius:15px;
+    border:none;
+    margin-left:10px;
+    width:120px;
+    background-color:bisque;
+    outline:none;
+}

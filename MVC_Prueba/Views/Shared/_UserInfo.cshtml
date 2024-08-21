@@ -1,0 +1,13 @@
+﻿@using MVC_Prueba.Models.Data
+@model UserViewModel
+
+<div>
+    <h4>Informacion del usuario</h4>
+    <p><strong>Nombre: </strong> @Model.UserName</p>
+    <p><strong>Edad: </strong> @Model.Age</p>
+    <p><strong>Clave: </strong> @Model.Password</p>
+    <p><strong>Email: </strong> @Model.Email</p>
+    <p><strong>Telefono: </strong> @Model.Phonenumber</p>
+
+</div>
+<partial name="_EjemploParcial.cshtml"/>

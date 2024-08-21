@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\models\\data\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\models\\data\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\wwwroot\\css\\formulariostyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\wwwroot\\css\\formulariostyles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\wwwroot\\css\\usuarioinfo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\wwwroot\\css\\usuarioinfo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\models\\productviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\models\\productviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\views\\shared\\_userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\views\\shared\\_userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\views\\shared\\_ejemploparcial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\views\\shared\\_ejemploparcial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\mvc_prueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\mvc_prueba.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\models\\data\\ipdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\models\\data\\ipdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\models\\data\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\models\\data\\pdfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|c:\\users\\dhelt\\source\\repos\\mvc_prueba\\mvc_prueba\\models\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55C2B33-B9AD-4CE7-80B5-368361E3E2E9}|MVC_Prueba\\MVC_Prueba.csproj|solutionrelative:mvc_prueba\\models\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 130,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\ProductViewModels.cs",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Models\\ProductViewModels.cs",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\ProductViewModels.cs",
+              "RelativeToolTip": "MVC_Prueba\\Models\\ProductViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T19:06:23.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularioStyles.css",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\wwwroot\\css\\FormularioStyles.css",
+              "RelativeDocumentMoniker": "MVC_Prueba\\wwwroot\\css\\FormularioStyles.css",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\wwwroot\\css\\FormularioStyles.css",
+              "RelativeToolTip": "MVC_Prueba\\wwwroot\\css\\FormularioStyles.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T18:52:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioInfo.css",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\wwwroot\\css\\UsuarioInfo.css",
+              "RelativeDocumentMoniker": "MVC_Prueba\\wwwroot\\css\\UsuarioInfo.css",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\wwwroot\\css\\UsuarioInfo.css",
+              "RelativeToolTip": "MVC_Prueba\\wwwroot\\css\\UsuarioInfo.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T18:32:27.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MVC_Prueba\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MVC_Prueba\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-06T18:30:25.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_EjemploParcial.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Shared\\_EjemploParcial.cshtml",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Views\\Shared\\_EjemploParcial.cshtml",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Shared\\_EjemploParcial.cshtml",
+              "RelativeToolTip": "MVC_Prueba\\Views\\Shared\\_EjemploParcial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T18:05:00.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVC_Prueba\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T17:08:47.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC_Prueba\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T15:24:53.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Prueba\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T15:24:49.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_UserInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Shared\\_UserInfo.cshtml",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Views\\Shared\\_UserInfo.cshtml",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Shared\\_UserInfo.cshtml",
+              "RelativeToolTip": "MVC_Prueba\\Views\\Shared\\_UserInfo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-06T15:24:08.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\Data\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Models\\Data\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\Data\\UserViewModel.cs",
+              "RelativeToolTip": "MVC_Prueba\\Models\\Data\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T14:44:03.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MVC_Prueba.csproj",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\MVC_Prueba.csproj",
+              "RelativeDocumentMoniker": "MVC_Prueba\\MVC_Prueba.csproj",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\MVC_Prueba.csproj",
+              "RelativeToolTip": "MVC_Prueba\\MVC_Prueba.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T21:22:38.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Controllers\\PdfController.cs",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "MVC_Prueba\\Controllers\\PdfController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:35:40.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PDFService.cs",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\Data\\PDFService.cs",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Models\\Data\\PDFService.cs",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\Data\\PDFService.cs",
+              "RelativeToolTip": "MVC_Prueba\\Models\\Data\\PDFService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:28:22.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPdfService.cs",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\Data\\IPdfService.cs",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Models\\Data\\IPdfService.cs",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\Data\\IPdfService.cs",
+              "RelativeToolTip": "MVC_Prueba\\Models\\Data\\IPdfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T22:25:39.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\Coche.cs",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Models\\Coche.cs",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Models\\Coche.cs",
+              "RelativeToolTip": "MVC_Prueba\\Models\\Coche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T18:28:27.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Home\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Views\\Home\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Views\\Home\\Usuarios.cshtml",
+              "RelativeToolTip": "MVC_Prueba\\Views\\Home\\Usuarios.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T19:21:36.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC_Prueba\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T20:29:26.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Prueba\\Program.cs",
+              "ToolTip": "C:\\Users\\dhelt\\source\\repos\\MVC_Prueba\\MVC_Prueba\\Program.cs",
+              "RelativeToolTip": "MVC_Prueba\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T20:27:57.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

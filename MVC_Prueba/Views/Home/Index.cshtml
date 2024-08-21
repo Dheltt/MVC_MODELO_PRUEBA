@@ -1,0 +1,32 @@
+﻿@model List<Post>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center jumbotron">
+    <h1 class="display-4">Welcome</h1>
+    <h1>Vistas Parciales</h1>
+    <hr/>
+    <button type="button" id="btnGaraje">Cargar garaje</button>
+    <button type="button" id="btnGarajeSimple">Cargar garaje simple</button>
+    <button type="button" id="limpiar">Limpiar datos</button>
+    
+</div>
+<div id="divGaraje" ></div>
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $("#btnGaraje").click(function () {
+                $("#divGaraje").load("/Home/_Garaje");
+            });
+            $("#btnGarajeSimple").click(function () {
+                $("#divGaraje").load("/Home/_GarajeSimple")
+            });
+            $("#limpiar").click(function () {
+                $("#divGaraje").html("");
+            });
+
+        })
+    </script>
+}
+

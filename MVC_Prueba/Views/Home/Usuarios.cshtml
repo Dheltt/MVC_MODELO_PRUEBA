@@ -1,0 +1,40 @@
+﻿@using MVC_Prueba.Models.Data
+@{
+    ViewData["Title"] = "Usuarios";
+}
+@model UserViewModel
+<link rel="stylesheet" href="~/css/UsuarioInfo.css"/>
+<link rel="stylesheet" href="~/css/FormularioStyles.css"/>
+<form method="post"  >
+    @*formulario para llenar datos de un usuario*@
+    <div class="form-group alineacion">
+        <label for="nombreUsuario" class="label">Nombre</label>
+        <input name="nombre" id="nombreUsuario" class="input"/>
+    </div>
+    <div class="form-group alineacion">
+        <label for="edadUsuario"class="label">Edad</label>
+        <input name="edad" id="edadUsuario" class="input" />
+    </div>
+    <div class="form-group alineacion">
+        <label for="paswordUsuario" class="label">Clave</label>
+        <input name="clave" id="paswordUsuario" class="input"  />
+    </div>
+    <div class="form-group alineacion">
+        <label for="correoUsuario" class="label">Correo</label>
+        <input name="correo" id="correoUsuario" class="input" />
+    </div>
+    <div class="form-group alineacion">
+        <label for="phoneUsuario" class="label">Telefono</label>
+        <input name="tel" id="phoneUsuario" class="input"  />
+    </div>
+    <button type="submit" class="btn btn-primary">Cagar Datos</button>
+</form>
+@if (Model != null){
+    <div class="background text-black form-text text form">
+        <partial name="_UserInfo"></partial>
+    </div>
+}else{
+    <div>
+        <p>NO HAY DATOS DISPONIBLES</p>
+    </div>
+}
